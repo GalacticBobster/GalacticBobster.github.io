@@ -17,27 +17,41 @@ Education
 
 Work experience
 ======
-* Fall 2021 - Present: Graduate Student Research Assistant
-  * Planetary Science Laboratory, University of Michigan
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Sushil K. Atreya and Professor Cheng Li
+* Graduate Student Research Assistant @ [PSL](https://psl.engin.umich.edu/), University of Michigan (Fall 2021 - Present)
+  * Role:
+    * Development of chemical kinetics package (C3M) for planetary atmospheres to simulate photochemistry of Venus
+    * Analysis of Juno Microwave Radiometer (MWR) Observations and microwave radiative transfer of Jupiter
+  * Advisors: Prof. Sushil K. Atreya and Prof. Cheng Li
 
-* Summer 2023: Planetary Science Graduate Intern
-  * NASA Jet Propulsion Laboratory
-  * Duties included: Tagging issues
+* Planetary Science Graduate Intern @ NASA Jet Propulsion Laboratory (Summer 2023)
+  * Role:
+    * Analysis of Juno MWR science data related to Jupiter's aurora
+    * Development of ion-neutral chemistry code to investigate the ionospheric structure and energy loss processes for precipitating charged particles
   * Supervisor: Dr. Steven M. Levin
 
-* Summer 2022 - Winter 2023: Graduate Course Developer
-  * Climate and Space Sciences and Engineering, University of Michigan
+* Course Development @ UM-CLASP (Summer 2022 - Winter 2023)
+  * Role:
+   * Created course modules on professional development, and computational resources for Ph.D. Pro-Seminar course
+   * Assisted in teaching lectures about git and computation
+  * Supervisor: Prof. Michael Liemohn
 
-* Summer 2022: Parallel Computing Summer Research Fellow
-  * XCP-4, Los Alamos National Laboratory
-  * Duties included: Tagg
+* Parallel Computing Summer Research Fellow @ XCP-4, Los Alamos National Laboratory (Summer 2022)
+  * Role:
+    * Trained on High-Performance Computing resources at LANL
+    * Developed and ported python based Direct Numerical Simulation code to GPU architectures
+    * Testing MPI parallelization of DNS on GPU
   * Supervisor: Dr. Daniel Israel and Dr. Robert Robey
 
-* Summer 2019: Engineering Intern
-  * Larsen & Toubro Limited
-  * Duties included:
+* Content Writer @ Astropreneurs.space (2019-2020)
+  * Role:
+    * Writing articles about space industry, and NewSpace
+    * Interviewing entrepreneurs from space industry. Some prominent names include executives from Alba Orbital and Space4Humanity.
+
+* Engineering Trainee @ Larsen & Toubro Limited (Summer 2019)
+  * I completed my training in Advanced Composites manufacturing and learned about project management and production processes related to manufacturing of aerospace composites in L&T Defence.
+
+* Engineering Trainee @ Schaeffler (December 2018)
+  * The training was focused on manufacturing and assembly of roller bearings. Heat treatment, machining, assembly and semi-automated processes associated with the manufacturing of different types of rolling element bearings.
 
 Skills
 ======
@@ -70,6 +84,6 @@ Awards
 
 Service and leadership
 ======
-* Professional development officer of Graduate and Undergraduate Student Organization (GUStO) at CLaSP
+* Professional development officer of Graduate and Undergraduate Student Organization (GUStO) at Department of Climate and Space Sciences and Engineering
 * Served as Planetary Science Subject Matter Expert for NASA@MyLibrary program and participated in science communication activities with libraries in US
 * Volunteered as a scribe for Conferences and Workshops: Venera-D Workshop, NASA DAVINCI Roundtable and 2023 EnVision International Venus Science Workshop.
