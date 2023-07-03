@@ -53,28 +53,7 @@ Work experience
 * Engineering Trainee @ Schaeffler (December 2018)
   * The training was focused on manufacturing and assembly of roller bearings. Heat treatment, machining, assembly and semi-automated processes associated with the manufacturing of different types of rolling element bearings.
 
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
 Awards
 ======
 * Winner of ‘Name the Exoworlds’ competition in 2019 by the International Astronomical Union (IAU). IAU accepted my proposal for naming of star HD86081. The Star has been recognized as ‘Bibha’ after Dr. Bibha Chowdhuri, an Indian scientist
