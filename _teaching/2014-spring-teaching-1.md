@@ -1,5 +1,5 @@
 ---
-title: "Course Development and Teaching"
+title: "Professional Development Seminar Course for Ph.D. students (FALL22/WN23)"
 collection: teaching
 type: "Graduate level course"
 permalink: /teaching/2014-spring-teaching-1
@@ -8,7 +8,4 @@ date: 2023-06-10
 location: "Ann Arbor, USA"
 ---
 
-
-Pro-Seminar Course (FALL22/WN22)
-======
 

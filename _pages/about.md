@@ -7,8 +7,6 @@ redirect_from:
 ---
 
 
-About Me
-======
 Welcome to my page! My name is Ananyo Bhattacharya, and I am pursuing my doctoral studies in planetary science. I am also proud to be a Fellow of the prestigious Entrepreneur's Leadership Program, where I have developed invaluable skills and knowledge to complement my scientific expertise.
 
 I am currently in my second year of doctoral studies at Climate and Space Sciences and Engineering department at the University of Michigan, Ann Arbor. My research focuses on exploration of planetary bodies, and their space environments. I am interested in origin and evolution of planetary atmospheres, and understanding planetary bodies as a complex system. I am working with NASA Juno mission to Jupiter, to analyze Microwave Radiometer observations of Jupiter's deep atmosphere and auroral region.
@@ -18,7 +16,7 @@ My doctoral research focuses on coupling photochemistry of Venus with atmospheri
 In addition to my scientific pursuits, I am fortunate to have been selected as a Fellow of the Entrepreneur's Leadership Program. This program has provided me with a unique opportunity to develop my leadership skills, cultivate an entrepreneurial mindset, and gain insights into the world of business and innovation. Being part of this program has broadened my horizons and equipped me with the tools to translate my scientific expertise into real-world applications and make a tangible impact on society.
 
 
-======
+
 
 
 
