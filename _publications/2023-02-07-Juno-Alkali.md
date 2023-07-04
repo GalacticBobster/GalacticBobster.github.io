@@ -1,7 +1,7 @@
 ---
 title: "Highly depleted alkali metals in Jupiter's deep atmosphere"
 collection: publications
-permalink: /publication/2023-02-07-Juno-alkali
+permalink: /publication/2023-02-07-Juno-Alkali
 excerpt: ''
 date: 2023-07-02
 venue: 'New Space'
