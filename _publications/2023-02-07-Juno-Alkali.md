@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2023-02-07-Juno-Alkali
 excerpt: ''
 date: 2023-07-02
-venue: 'New Space'
+venue: 'The Astrophysical Journal Letters'
 citation: 'Bhattacharya, Ananyo, Cheng Li, Sushil K. Atreya, Paul G. Steffes, Steven M. Levin, Scott J. Bolton, Tristan Guillot et al. "Highly depleted alkali metals in Jupiter's deep atmosphere." arXiv preprint arXiv:2306.12546 (2023).'
 ---
 
