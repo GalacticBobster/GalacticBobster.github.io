@@ -18,40 +18,36 @@ Education
 Work experience
 ======
 * Graduate Student Research Assistant @ [PSL](https://psl.engin.umich.edu/), University of Michigan (Fall 2021 - Present)
-  * Role:
-    * Development of chemical kinetics package (C3M) for planetary atmospheres to simulate photochemistry of Venus
-    * Analysis of Juno Microwave Radiometer (MWR) Observations and microwave radiative transfer of Jupiter
-  * Advisors: Prof. Sushil K. Atreya and Prof. Cheng Li
+  * Developing a self-consistent chemical kinetics package (C3M) for simulating atmospheric photochemistry in Venus
+  * Modeling microwave radiative transfer in Jupiter and data analysis of Juno Microwave Radiometer observations of Jupiter's deep atmosphere
+  Advisors: Prof. Sushil K. Atreya and Prof. Cheng Li
 
 * Planetary Science Graduate Intern @ NASA Jet Propulsion Laboratory (Summer 2023)
-  * Role:
-    * Analysis of Juno MWR science data related to Jupiter's aurora
-    * Development of ion-neutral chemistry code to investigate the ionospheric structure and energy loss processes for precipitating charged particles
-  * Supervisor: Dr. Steven M. Levin
+  * Investigating energy distribution and electron impact ionization process during high-energy precipitation events in Jupiter's aurora.
+  * Scientific analysis of Juno Microwave Radiometer observations of Jupiter's northern aurora.
+  * Constraining the plasma electron density in the auroral ionosphere.
+  Mentor: Dr. Steven M. Levin 
 
 * Course Development @ UM-CLASP (Summer 2022 - Winter 2023)
-  * Role:
-   * Created course modules on professional development, and computational resources for Ph.D. Pro-Seminar course
-   * Assisted in teaching lectures about git and computation
-  * Supervisor: Prof. Michael Liemohn
+  * Created course modules on professional development, and computational resources for Ph.D. Professional Seminar course
+  * Assisted in teaching lectures about version control and computation
+  Supervisor: Prof. Michael W. Liemohn
 
 * Parallel Computing Summer Research Fellow @ XCP-4, Los Alamos National Laboratory (Summer 2022)
-  * Role:
-    * Trained on High-Performance Computing resources at LANL
-    * Developed and ported python based Direct Numerical Simulation code to GPU architectures
-    * Testing MPI parallelization of DNS on GPU
-  * Supervisor: Dr. Daniel Israel and Dr. Robert Robey
+  * Trained on High-Performance Computing resources at LANL
+  * Developed and ported python based Direct Numerical Simulation code to GPU architectures
+  * Testing MPI parallelization of DNS on GPU
+  Mentors: Dr. Daniel Israel and Dr. Robert Robey
 
 * Content Writer @ Astropreneurs.space (2019-2020)
-  * Role:
-    * Writing articles about space industry, and NewSpace
-    * Interviewing entrepreneurs from space industry. Some prominent names include executives from Alba Orbital and Space4Humanity.
+  * Writing articles to tell the story of entrepreneurs in space sector.
+  * Interviewed entrepreneurs, and executives from space industry. Some prominent names include executives from Alba Orbital and Space4Humanity.
 
 * Engineering Trainee @ Larsen & Toubro Limited (Summer 2019)
   * I completed my training in Advanced Composites manufacturing and learned about project management and production processes related to manufacturing of aerospace composites in L&T Defence.
 
 * Engineering Trainee @ Schaeffler (December 2018)
-  * The training was focused on manufacturing and assembly of roller bearings. Heat treatment, machining, assembly and semi-automated processes associated with the manufacturing of different types of rolling element bearings.
+  * I completed my training in manufacturing and assembly of roller bearings. Learned about industrial processes and automation associated with the manufacturing of different types of rolling element bearings.
 
   
 Awards
@@ -61,8 +57,11 @@ Awards
 * Awarded the JPL Graduate Fellowship at NASA Jet Propulsion Laboratory
 * Fellow of Entrepreneurs Leadership Program (ELP) at University of Michigan Center for Entrepreneurship (CFE)
 
-Service and leadership
+Service and Leadership
 ======
 * Professional development officer of Graduate and Undergraduate Student Organization (GUStO) at Department of Climate and Space Sciences and Engineering
 * Served as Planetary Science Subject Matter Expert for NASA@MyLibrary program and participated in science communication activities with libraries in US
-* Volunteered as a scribe for Conferences and Workshops: Venera-D Workshop, NASA DAVINCI Roundtable and 2023 EnVision International Venus Science Workshop.
+* Volunteered as scribe for Conferences and Workshops: Venera-D Workshop, NASA DAVINCI Roundtable and 2023 EnVision International Venus Science Workshop.
+* University of Michigan Delegate to the United Nations Climate Change Confernece, COP 28 in Dubai, UAE.
+* Project Mentor for NASA JPL Mars mission design project in graduate level course SPACE 582/583.
+* Product testing, strategic advising and customer discovery at M-HEAL: The Initiative. Participated in the Great Lakes NSF i-CORPS Program to conduct customer discovery in neonatal product development.
