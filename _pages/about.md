@@ -11,7 +11,7 @@ redirect_from:
 
 🪐 My doctoral research focuses on coupling photochemistry of Venus with atmospheric dynamics driven transport processes to understand the spatio-temporal variability of trace species in Venus. The coupling between chemistry and dynamics offers a perspective to interpret the observations of ground based telescopes and spacecrafts in order to develop a better understanding of planetary atmospheres. 
 
-🛠️ In addition to my scientific research, I am pursuing my interests in entrepreneurship and technical innovation for social impact. As a Fellow of the [Entrepreneur's Leadership Program](https://cfe.umich.edu/elp/) at University of Michigan, I had the opportunity to develop my leadership skills, cultivate an entrepreneurial mindset, and gain insights into the world of business and innovation. I have been working in association with [M-HEAL: The Initiative] (https://mheal.engin.umich.edu/theinitiative) to develop neonatal incubators to combat infant mortality in Sub-Saharan Africa.
+🛠️ In addition to my scientific research, I am pursuing my interests in entrepreneurship and technical innovation for social impact. As a Fellow of the [Entrepreneur's Leadership Program](https://cfe.umich.edu/elp/) at University of Michigan, I had the opportunity to develop my leadership skills, cultivate an entrepreneurial mindset, and gain insights into the world of business and innovation. I have been working in association with [M-HEAL: The Initiative](https://mheal.engin.umich.edu/theinitiative) to develop neonatal incubators to combat infant mortality in Sub-Saharan Africa.
 
 
 
