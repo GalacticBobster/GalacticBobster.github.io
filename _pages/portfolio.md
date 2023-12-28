@@ -23,6 +23,7 @@ Probing Dust and Water Vapor in Martian atmosphere
 [Remote Sensing paper](https://www.mdpi.com/2072-4292/15/18/4574)
 
 ![Occultation](../images/OccultationGeometry.png)
+
 Bhattacharya et al. 2023, Remote Sensing
 
 Airborne dust plays an active role in determining the thermal structure and chemical composition of the present-day atmosphere of Mars and possibly the planet’s climate evolution over time through radiative–convective and cloud microphysics processes. Thus, accurate measurements of the distribution and variability of dust are required. Observations from the Mars Global Surveyor/Thermal Emission Spectrometer Mars Mars Reconnaissance Orbiter/Mars Climate Sounder and Mars Express/Fourier Transform Spectrometer and the Curiosity Rover have limited capability to measure dust. We show that spacecraft occultation of the Martian atmosphere at far-infrared frequencies between 1 and 10 THz can provide the needed global and temporal data on atmospheric dust by providing co-located measurements of temperature and dust opacity from the top of the atmosphere all the way down to the surface. In addition, spacecraft occultation by a small-satellite constellation could provide global measurements of the development of dust storms.
