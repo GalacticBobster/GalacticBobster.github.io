@@ -13,8 +13,11 @@ redirect_from:
 
 [Interview with Dr. Rajinder Singh published in Science and Culture, Indian Science News Association](https://www.researchgate.net/publication/341868667_BIBHA_CHOWDHURI_-FROM_AN_UNSUNG_HEROINE_TO_A_STAR_IN_HEAVEN)
 
-[UM Center for Entrepreneurship, Student Spotlight](https://cfe.umich.edu/student-spotlight-ananyo-bhattacharya/)
+[Bhattacharya Selected as AGU Community Science Fellow](https://clasp.engin.umich.edu/2024/09/27/bhattacharya-selected-as-agu-community-science-fellow/)
 
+[Meet the September 2024 Cohort of Community Science Fellows](https://thrivingearthexchange.org/blog/meet-the-september-2024-cohort-of-community-science-fellows/)
+
+[UM Center for Entrepreneurship, Student Spotlight](https://cfe.umich.edu/student-spotlight-ananyo-bhattacharya/)
 
 [COP28 climate summit in Dubai: U-M student team attending](https://news.umich.edu/cop28-climate-summit-in-dubai-u-m-student-team-attending/)
 
