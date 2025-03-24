@@ -39,20 +39,27 @@ The Juno Microwave Radiometer has allowed observation of Jupiter's atmosphere do
 
 Mars CubeSat Satellite Constellation for Radio Science Experiments
 ======
-A space mission design project focused on providing daily near-global observations of Mars' neutral atmosphere and ionospheric medium. Radio occultation is a powerful method of probing atmospheric temperature profiles, and capture local scale stability and mixing processes. We leverage the engineering advances in small spacecraft to provide a mission concept of Mars radio occultation observation network (MaROON). The project has been selected for presentation at AIAA SciTech 2025.
 
+[Conference paper](https://arc.aiaa.org/doi/abs/10.2514/6.2025-1400)
+
+A space mission design project focused on providing daily near-global observations of Mars' neutral atmosphere and ionospheric medium. Radio occultation is a powerful method of probing atmospheric temperature profiles, and capture local scale stability and mixing processes. We leverage the engineering advances in small spacecraft to provide a mission concept of Mars radio occultation observation network (MaROON). The project was presented at AIAA SciTech 2025.
 
 TREX: Temporarily-Captured Orbiter Rendezvous Explorer 
 ======
-A mission concept focused on rendezvous and remote sensing of Temporarily Captured Object (TCO) in Earth's orbit. Stepping into the shoes of Project Scientist, and Instrument Lead, I worked with an interdisciplinary team as a part of [Cornell SmallSat Mission Design School](https://smds.cornell.edu/#:~:text=Summer%202025%20program%20dates%3A%20June,made%20possible%20with%20small%20spacecraft.). Watch this space for more updates.
 
+[IAA Planetary Defense Conference](https://iaa.4hdt.ro/event/1/contributions/143/)
+
+A mission concept focused on rendezvous and remote sensing of Temporarily Captured Object (TCO) in Earth's orbit. Stepping into the shoes of Project Scientist, and Instrument Lead, I worked with an interdisciplinary team as a part of [Cornell SmallSat Mission Design School](https://smds.cornell.edu/#:~:text=Summer%202025%20program%20dates%3A%20June,made%20possible%20with%20small%20spacecraft.). Watch this space for more updates. We are presenting our work at IAA Planetary Defense Conference (PDC) 2025.
 
 Juno Microwave Radiometer Observations of Extreme Electron Precipitation Events
 ======
 
-[Manuscript under review in JGR: Space Physics]
-[Pre-print available on ESS Open Archive](https://essopenarchive.org/users/630685/articles/1240124-jupiter-s-auroral-ionosphere-juno-microwave-radiometer-observations-of-energetic-electron-precipitation-events)
+[JGR: Space Physics paper](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024JA033431)
 
 Jupiter's auroral ionosphere is characterized by high electron density due to energetic particle precipitation near the polar regions resulting in a plasma environment that exhibits reflection and absorption at microwave frequencies. Juno Microwave Radiometer (MWR) observations have detected cold brightness temperatures over the auroral oval in Jupiter's northern hemisphere. These features are found to be prominent at 600 MHz to 5 GHz frequency channels, showing a temporal variation in brightness temperature over a time span less than a minute encompassing length scale of MWR polar footprint e.g. 0.1 RJ. We analyze Juno MWR observations of the northern aurora, and simulate the electron densities corresponding up to 10 MeV energetic particle precipitation events inferred from the JEDI and UVS instruments. The plasma environment of Jupiter's northern aurora is investigated using microwave opacity models to characterize the nature of reflection and absorption required to explain the MWR observations.
 
+
+[Planetary Science Journal paper](https://iopscience.iop.org/article/10.3847/PSJ/ad9d42/meta)
+
+Sinclair et al., (2025) analyzed the IRTF-TEXES and SOFIA-EXES observations to understand elevation of methane homopause at Jupiter's auroral region. Energy deposition due to auroral electron precipitation may heat up the atmosphere at pressure levels close to 0.1 to 1 mbar. 
 
