@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research Projects"
+title: "Publications"
 permalink: /portfolio/
 author_profile: true
 redirect_from:
@@ -10,50 +10,54 @@ redirect_from:
 {% include base_path
  %}
 
-Thermochemistry and Microwave Remote Sensing of Jupiter's Deep Atmosphere
+Doctoral Thesis
 ======
 
-![Protostar](../images/protostar.png)
+Bhattacharya, Ananyo (2025), "Perspectives from the Juno Microwave Radiometer: Probing Jupiter's Deep Rock Clouds, Thermochemistry and High-Energy Electron Precipitation over Northern Aurora." PhD diss., University of Michigan, Ann Arbor
 
-The Juno Microwave Radiometer has allowed observation of Jupiter's atmosphere down to previously inaccessible depths, although the complexity of the atmospheric dynamics has complicated analysis. The longest-wavelength channel (600 MHz) is sensitive to pressure levels of hundreds of bars, and has observed opacity sources other than the known gaseous and cloud components, likely caused by thermally ionized free electrons from alkali metal vapor. We extend previous analysis of limb darkening at these wavelengths, using radiative transfer and thermal equilibrium modeling, by considering the effect of anions in the deep Jovian atmosphere, which act as a sink for free electrons and will thus decrease opacity for a given alkali metal abundance. We show that MWR observations are consistent with a sodium and potassium abundance on the order of 0.1× solar around the 1-kilobar level, higher than previously estimated but still substantially depleted compared to other heavy elements, a value that would be within the range of observed alkali metal abundances on giant exoplanets; alternatively, MWR observations may be consistent with 3× solar sodium abundance, but only if potassium is even more strongly depleted. Such depletion may be the result of either chemical processes yet deeper in the atmosphere, such as in the silicate clouds, or of a long-lived stable layer shallower than the alkali salt clouds.
+First Author Publications
+======
+1. Bhattacharya, Ananyo, J. Hunter Waite, Steven M. Levin, Fabiano A. Oyafuso, Paul G. Steffes, Yue Lu, G. Randall Gladstone et al. "Jupiter's Auroral ionosphere: Juno Microwave Radiometer observations of energetic electron precipitation events." Journal of Geophysical Research: Space Physics 130, no. 2 (2025): e2024JA033431
 
-[Astrophysical Journal Letters paper](https://iopscience.iop.org/article/10.3847/2041-8213/ace115)
+2. Bhattacharya, Ananyo, Cheng Li, Nilton O. Renno, Sushil K. Atreya, and David Sweeney. "Probing Dust and Water in Martian Atmosphere with Far-Infrared Frequency Spacecraft Occultation." Remote Sensing 15, no. 18 (2023): 4574.
 
-[Icarus paper](https://www.sciencedirect.com/science/article/pii/S0019103524003944)
+3. Bhattacharya, Ananyo, Cheng Li, Sushil K. Atreya, Paul G. Steffes, Steven M. Levin, Scott J. Bolton, Tristan Guillot et al. "Highly depleted alkali metals in Jupiter’s deep atmosphere." The Astrophysical Journal Letters 952, no. 2 (2023): L27.
+
+4. Bhattacharya et al., "Coupling RRFSv1 and FVCOM-CICE for Operational Weather Forecasting in the Great Lakes Region" (In Prep.)
+
+5. Bhattacharya et al., "Impact of Terrestrial Plasma Sheet on Moon’s Surface Bound Exosphere" (In Prep.)
 
 
-Sensing the Martian Atmosphere
+Research Collaborations
 ======
 
-![Occultation](../images/OccultationGeometry.png)
+1. Aglyamov, Yury S., Sushil K. Atreya, Ananyo Bhattacharya, Cheng Li, Steven Levin, Scott J. Bolton, and Michael H. Wong. "Alkali metal depletion in the deep Jovian atmosphere: The role of anions." Icarus 425 (2025): 116334.
 
-Airborne dust plays an active role in determining the thermal structure and chemical composition of the present-day atmosphere of Mars and possibly the planet’s climate evolution over time through radiative–convective and cloud microphysics processes. Thus, accurate measurements of the distribution and variability of dust are required. Observations from the Mars Global Surveyor/Thermal Emission Spectrometer Mars Mars Reconnaissance Orbiter/Mars Climate Sounder and Mars Express/Fourier Transform Spectrometer and the Curiosity Rover have limited capability to measure dust. We show that spacecraft occultation of the Martian atmosphere at far-infrared frequencies between 1 and 10 THz can provide the needed global and temporal data on atmospheric dust by providing co-located measurements of temperature and dust opacity from the top of the atmosphere all the way down to the surface. In addition, spacecraft occultation by a small-satellite constellation could provide global measurements of the development of dust storms.
+2. Sinclair, James A., Thomas K. Greathouse, Rohini S. Giles, Matthew Richter, Maisie Rashman, Curtis de Witt, Julianne Moses et al. "Improved Constraints on the Vertical Profile of CH4 at Jupiter’s Mid-to High Latitudes, Using IRTF-TEXES and SOFIA-EXES Spectroscopy." The Planetary Science Journal 6, no. 1 (2025): 15.
 
-[AIAA SciTech conference](https://arc.aiaa.org/doi/abs/10.2514/6.2025-1400)
+3. Ferreira, José P., Imane El Khantouti, Ananyo Bhattacharya, Maxim Mommerency, and Federico Rondoni. "The space-faring Africa: commercial space industry and its readiness for innovation-driven investment." New Space 11, no. 1 (2023): 32-43.
 
-[Remote Sensing paper](https://www.mdpi.com/2072-4292/15/18/4574)
+4. Chadwick, Arthur E., Adrienne N. Rudolph, Ananyo Bhattacharya, Ana Sofia Alonso, Nitya Jagadam et al., “A Temporarily-Captured Orbiter Rendezvous Explorer and Remote Sensing Mission” (Under review)
+
+5. Dahl, Emma et al., “Clouds and Aerosols in the Solar System” (In Prep.) 
 
 
-Earth System Modeling: Investigating Lake Atmosphere Coupling for NOAA UFS
+Select Conference Proceedings
 ======
 
-The Great Lakes region have some of the largest freshwater bodies on planet Earth. Interaction of these lakes with the atmosphere influences the regional weather and climate, driving extreme winter storms and precipitation. Accurate forecasting of these lake effect phenomenon is crucial to the livelihood and economic activities in the region. An operational short and medium term weather forecast system is coupled to a lake dynamics model. An accurate representation of lake surface temperature, and ice will help in improvement of prediction systems.
+1. Lewis, Andrew D., Talbryn Porter, Seth Schoenhardt, Ananyo Bhattacharya, David Sweeney, Dillan McDonald, Rohan Madathil et al. "Mars Radio Occultation Observation Network (MaROON)." In AIAA SCITECH 2025 Forum, p. 1400. 2025.
 
-Particle Precipitation and Giant Planet Aurora
-======
+2. Bhattacharya, Ananyo, Omar Leon, Shirsh Soni, Keshav R. Tripathi, and Jim M. Raines. "In-situ Measurements of Moon’s Surface Bound Exosphere: Preliminary Results from Chandrayaan 3 RAMBHA-LP." AGU25.
 
-Jupiter's auroral ionosphere is characterized by high electron density due to energetic particle precipitation near the polar regions resulting in a plasma environment that exhibits reflection and absorption at microwave frequencies. Juno Microwave Radiometer (MWR) observations have detected cold brightness temperatures over the auroral oval in Jupiter's northern hemisphere. These features are found to be prominent at 600 MHz to 5 GHz frequency channels, showing a temporal variation in brightness temperature over a time span less than a minute encompassing length scale of MWR polar footprint e.g. 0.1 RJ. We analyze Juno MWR observations of the northern aurora, and simulate the electron densities corresponding up to 10 MeV energetic particle precipitation events inferred from the JEDI and UVS instruments. The plasma environment of Jupiter's northern aurora is investigated using microwave opacity models to characterize the nature of reflection and absorption required to explain the MWR observations. Sinclair et al., (2025) analyzed the IRTF-TEXES and SOFIA-EXES observations to understand elevation of methane homopause at Jupiter's auroral region. Energy deposition due to auroral electron precipitation may heat up the atmosphere at pressure levels close to 0.1 to 1 mbar.
+3. Coffin, Drew, Paul Withers, Omakshi Agiwal, Dustin Buccino, Marzia Parisi, Ryan S. Park, Andrea Caruso et al. "Juno-derived insights to the Alvenic coupling between Jupiter and its magnetosphere." In EPSC-DPS Joint Meeting 2025 (EPSC-DPS2025, pp. EPSC-DPS2025. 2025.
 
-[JGR: Space Physics paper](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024JA033431)
+4. Liemohn, Michael Warren, Allison Steiner, Jeremy N. Bassis, Gretchen Keppel-Aleks, Timothy B. Keebler, Ananyo Bhattacharya, and Erica Whiting. "Revealing the hidden curriculum for first-year PhD students in climate and space sciences." In AGU Fall Meeting Abstracts, vol. 2024, no. 253, pp. ED51B-253. 2024.
 
-[Planetary Science Journal paper](https://iopscience.iop.org/article/10.3847/PSJ/ad9d42/meta)
+5. Levin, Steve. "Juno Microwave Radiometer Results From 8 Years At Jupiter." In European Planetary Science Congress, pp. EPSC2024-674. 2024.
+
+6. Bhattacharya, Ananyo, Cheng Li, Sushil K. Atreya, Arnaud Mahieux, Arianna Piccialli, and Ann Carine Vandaele. "SPICAV/SOIR observations of Venus indicate CO2 saturation below homopause." In AGU Fall Meeting Abstracts, vol. 2022, pp. P52E-1598. 2022.
 
 
-TREX: Temporarily-Captured Orbiter Rendezvous Explorer 
-======
 
-[IAA Planetary Defense Conference](https://iaa.4hdt.ro/event/1/contributions/143/)
-
-A mission concept focused on rendezvous and remote sensing of Temporarily Captured Object (TCO) in Earth's orbit. Stepping into the shoes of Project Scientist, and Instrument Lead, I worked with an interdisciplinary team as a part of [Cornell SmallSat Mission Design School](https://smds.cornell.edu/#:~:text=Summer%202025%20program%20dates%3A%20June,made%20possible%20with%20small%20spacecraft.). Watch this space for more updates. We are presenting our work at IAA Planetary Defense Conference (PDC) 2025.
 
 
