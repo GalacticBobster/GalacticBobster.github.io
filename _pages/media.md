@@ -17,11 +17,8 @@ redirect_from:
 
 ## Profiles & Interviews
 
-[![UM Entrepreneurship Spotlight](https://img.shields.io/badge/Featured-UM_Center_for_Entrepreneurship-blue)](https://cfe.umich.edu/student-spotlight-ananyo-bhattacharya/)
-
 - [**UM Center for Entrepreneurship, Student Spotlight**](https://cfe.umich.edu/student-spotlight-ananyo-bhattacharya/)
 - [**Interview with Dr. Rajinder Singh**](https://www.researchgate.net/publication/341868667_BIBHA_CHOWDHURI_-FROM_AN_UNSUNG_HEROINE_TO_A_STAR_IN_HEAVEN) – *Science and Culture*, Indian Science News Association
-- [**Bhattacharya Selected as AGU Community Science Fellow**](https://clasp.engin.umich.edu/2024/09/27/bhattacharya-selected-as-agu-community-science-fellow/)
 - [**Meet the September 2024 Cohort of Community Science Fellows**](https://thrivingearthexchange.org/blog/meet-the-september-2024-cohort-of-community-science-fellows/)
 
 
@@ -30,7 +27,8 @@ redirect_from:
 ## Climate Policy & Engagement
 
 - [**COP28 climate summit in Dubai: U-M student team attending**](https://news.umich.edu/cop28-climate-summit-in-dubai-u-m-student-team-attending/)
-- [**UNFCCC 16th Focal Point Forum of Nairobi Work Programme**](https://unfccc.int/news/understanding-and-closing-adaptation-knowledge-gaps-in-mountains-and-high-latitude-areas) – COP28, Dubai
+- [**UNFCCC 16th Focal Point Forum of Nairobi Work Programme**](https://unfccc.int/news/understanding-and-closing-adaptation-knowledge-gaps-in-mountains-and-high-latitude-areas)
+
 
 ---
 
@@ -55,7 +53,7 @@ redirect_from:
   </div>
 </div>
 
-### Ongoing Contributions
+### Past Contributions
 
 **[Astropreneurs.space](https://isulibrary.isunet.edu/index.php?lvl=notice_display&id=10148)** – Contributing writer for International Space University alumni project, interviewing space entrepreneurs worldwide
 
