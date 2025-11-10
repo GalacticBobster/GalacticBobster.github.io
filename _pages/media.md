@@ -20,7 +20,7 @@ redirect_from:
 - [**UM Center for Entrepreneurship, Student Spotlight**](https://cfe.umich.edu/student-spotlight-ananyo-bhattacharya/)
 - [**Interview with Dr. Rajinder Singh**](https://www.researchgate.net/publication/341868667_BIBHA_CHOWDHURI_-FROM_AN_UNSUNG_HEROINE_TO_A_STAR_IN_HEAVEN) – *Science and Culture*, Indian Science News Association
 - [**Meet the September 2024 Cohort of Community Science Fellows**](https://thrivingearthexchange.org/blog/meet-the-september-2024-cohort-of-community-science-fellows/)
-
+- [**Center for Entrepreneurship EHour x FUEL pitch competition**](https://cfe.umich.edu/ehour-x-fuel-pitch-competition-rounds-out-a-semester-of-inspiration/)
 
 ---
 
@@ -28,7 +28,7 @@ redirect_from:
 
 - [**COP28 climate summit in Dubai: U-M student team attending**](https://news.umich.edu/cop28-climate-summit-in-dubai-u-m-student-team-attending/)
 - [**UNFCCC 16th Focal Point Forum of Nairobi Work Programme**](https://unfccc.int/news/understanding-and-closing-adaptation-knowledge-gaps-in-mountains-and-high-latitude-areas)
-
+- [**AGU Thriving Earth Exchange Community Science Project on Sustainable Fisheries**](https://thrivingearthexchange.org/project/cameron-la/)
 
 ---
 
