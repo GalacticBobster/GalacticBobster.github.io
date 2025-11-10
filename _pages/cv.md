@@ -61,7 +61,7 @@ redirect_from:
 }
 </style>
 
-##Research Projects
+## Research Projects
 
 ### 🌦️ Operational Weather Forecasting and Earth System Modeling
 <div class="impact-metric">
@@ -75,4 +75,15 @@ Developing and testing the **NOAA Unified Forecast System (UFS)**, a next-genera
 <span class="tech-stack">Coupled Systems</span>
 <span class="tech-stack">Fortran/Python</span>
 <span class="tech-stack">HPC</span>
+
+### 🪐 Planetary Atmospheres & Space Physics
+**Scientific Collaborator** | NASA Juno Mission to Jupiter
+**Steering Committee Member** NASA Venus Exploration Analysis Group
+**NASA JPL Graduate Fellowship** NASA Jet Propulsion Laboratory
+
+
+**Research Achievements:**
+- First solar system gas giant constaint on alkali metal abundance, depleted relative to other heavy element abundnaces derived from Galileo Probe
+- Sub-millimeter wave remote sensing applications to Martian atmosphere
+- High-energy (MeV) electron precipitation and its time dependence inferred from Juno Microwave Radiometer
 
