@@ -6,8 +6,6 @@ redirect_from:
   - /about.html
 ---
 
-{% include carousel.html %}
-
 👋 Welcome! I'm Ananyo Bhattacharya, a space scientist and engineer bridging scientific research with technological innovation. I am a Research Fellow at Department of Climate and Space Sciences and Engineering, University of Michigan.
 
 I am working on problems at intersection of natural sciences and engineering focused on understanding Earth and outer space. At University of Michigan's [Atmospheric Dynamics Modeling Laboratory](https://admg.engin.umich.edu), I work on technical development of [NOAA Unified Forecast System](https://ufs.epic.noaa.gov) for operational weather forecasting over the Great Lakes region. Short-term weather forecasting provides insights on lake effect winter storms, rainfall patterns and sources of moisture. I am also working with applications of deep learning models for Earth System Modeling. Emerging technologies in machine learning combined with physics based methods help us to take on challenging problems.
@@ -17,7 +15,125 @@ I am also a scientific collaborator to [NASA Juno mission](https://science.nasa.
 
 
 ------
+<style>
+.carousel-container {
+    position: relative;
+    width: 100%;
+    max-width: 800px;
+    margin: 20px auto;
+    overflow: hidden;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
 
+.carousel-slides {
+    display: flex;
+    transition: transform 0.5s ease-in-out;
+}
+
+.carousel-slide {
+    min-width: 100%;
+    height: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.carousel-slide img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.carousel-indicators {
+    position: absolute;
+    bottom: 15px;
+    left: 50%;
+    transform: translateX(-50%);
+    display: flex;
+    gap: 8px;
+}
+
+.indicator {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background: rgba(255, 255, 255, 0.5);
+    cursor: pointer;
+    transition: background 0.3s;
+}
+
+.indicator.active {
+    background: white;
+}
+</style>
+
+<div class="carousel-container">
+    <div class="carousel-slides" id="carouselSlides">
+        <div class="carousel-slide">
+            <img src="/assets/images/research-lab.jpg" alt="Research at University of Michigan">
+        </div>
+        <div class="carousel-slide">
+            <img src="/assets/images/juno-jupiter.jpg" alt="NASA Juno Mission to Jupiter">
+        </div>
+        <div class="carousel-slide">
+            <img src="/assets/images/great-lakes-weather.jpg" alt="Great Lakes Weather Forecasting">
+        </div>
+    </div>
+    <div class="carousel-indicators" id="indicators"></div>
+</div>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    const slides = document.getElementById('carouselSlides');
+    const indicatorsContainer = document.getElementById('indicators');
+    
+    // Check if elements exist
+    if (!slides || !indicatorsContainer) {
+        console.error('Carousel elements not found');
+        return;
+    }
+    
+    const totalSlides = slides.children.length;
+    let currentSlide = 0;
+
+    // Create indicators
+    for (let i = 0; i < totalSlides; i++) {
+        const indicator = document.createElement('div');
+        indicator.className = 'indicator';
+        if (i === 0) indicator.classList.add('active');
+        indicator.addEventListener('click', function() {
+            goToSlide(i);
+        });
+        indicatorsContainer.appendChild(indicator);
+    }
+
+    function goToSlide(index) {
+        currentSlide = index;
+        slides.style.transform = 'translateX(-' + (currentSlide * 100) + '%)';
+        updateIndicators();
+    }
+
+    function nextSlide() {
+        currentSlide = (currentSlide + 1) % totalSlides;
+        goToSlide(currentSlide);
+    }
+
+    function updateIndicators() {
+        const indicators = indicatorsContainer.children;
+        for (let i = 0; i < indicators.length; i++) {
+            if (i === currentSlide) {
+                indicators[i].classList.add('active');
+            } else {
+                indicators[i].classList.remove('active');
+            }
+        }
+    }
+
+    // Auto-advance every 5 seconds
+    setInterval(nextSlide, 5000);
+});
+</script>
 
 
 ------
