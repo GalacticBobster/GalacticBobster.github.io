@@ -1,9 +1,12 @@
+---
+permalink: /
 author_profile: true
-redirect_from:
+redirect_from: 
   - /about/
   - /about.html
 ---
 
+{% include carousel.html %}
 
 👋 Welcome! I'm Ananyo Bhattacharya, a space scientist and engineer bridging scientific research with technological innovation. I am a Research Fellow at Department of Climate and Space Sciences and Engineering, University of Michigan.
 
