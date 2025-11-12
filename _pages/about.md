@@ -66,6 +66,22 @@ I am also a scientific collaborator to [NASA Juno mission](https://science.nasa.
 .indicator.active {
     background: white;
 }
+
+.carousel-button {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background: rgba(0,0,0,0.5);
+    color: white;
+    border: none;
+    padding: 8px 12px;
+    cursor: pointer;
+    border-radius: 50%;
+    font-size: 18px;
+}
+
+.carousel-button.prev { left: 10px; }
+.carousel-button.next { right: 10px; }
 </style>
 
 <div class="carousel-container">
@@ -77,9 +93,15 @@ I am also a scientific collaborator to [NASA Juno mission](https://science.nasa.
             <img src="../images/OccultationGeometry.png" alt="NASA Juno Mission to Jupiter">
         </div>
         <div class="carousel-slide">
-            <img src="/assets/images/great-lakes-weather.jpg" alt="Great Lakes Weather Forecasting">
+            <img src="../images/great-lakes-weather.jpg" alt="Great Lakes Weather Forecasting">
         </div>
     </div>
+
+    <!-- Navigation buttons -->
+    <button class="carousel-button prev">&#10094;</button>
+    <button class="carousel-button next">&#10095;</button>
+
+    <!-- Indicators -->
     <div class="carousel-indicators" id="indicators"></div>
 </div>
 
@@ -87,13 +109,9 @@ I am also a scientific collaborator to [NASA Juno mission](https://science.nasa.
 document.addEventListener('DOMContentLoaded', function() {
     const slides = document.getElementById('carouselSlides');
     const indicatorsContainer = document.getElementById('indicators');
-    
-    // Check if elements exist
-    if (!slides || !indicatorsContainer) {
-        console.error('Carousel elements not found');
-        return;
-    }
-    
+    const prevBtn = document.querySelector('.carousel-button.prev');
+    const nextBtn = document.querySelector('.carousel-button.next');
+
     const totalSlides = slides.children.length;
     let currentSlide = 0;
 
@@ -102,15 +120,13 @@ document.addEventListener('DOMContentLoaded', function() {
         const indicator = document.createElement('div');
         indicator.className = 'indicator';
         if (i === 0) indicator.classList.add('active');
-        indicator.addEventListener('click', function() {
-            goToSlide(i);
-        });
+        indicator.addEventListener('click', () => goToSlide(i));
         indicatorsContainer.appendChild(indicator);
     }
 
     function goToSlide(index) {
         currentSlide = index;
-        slides.style.transform = 'translateX(-' + (currentSlide * 100) + '%)';
+        slides.style.transform = `translateX(-${currentSlide * 100}%)`;
         updateIndicators();
     }
 
@@ -119,21 +135,27 @@ document.addEventListener('DOMContentLoaded', function() {
         goToSlide(currentSlide);
     }
 
+    function prevSlide() {
+        currentSlide = (currentSlide - 1 + totalSlides) % totalSlides;
+        goToSlide(currentSlide);
+    }
+
     function updateIndicators() {
         const indicators = indicatorsContainer.children;
         for (let i = 0; i < indicators.length; i++) {
-            if (i === currentSlide) {
-                indicators[i].classList.add('active');
-            } else {
-                indicators[i].classList.remove('active');
-            }
+            indicators[i].classList.toggle('active', i === currentSlide);
         }
     }
 
-    // Auto-advance every 5 seconds
+    // Attach button events
+    nextBtn.addEventListener('click', nextSlide);
+    prevBtn.addEventListener('click', prevSlide);
+
+    // Optional: auto-play every 5 seconds
     setInterval(nextSlide, 5000);
 });
 </script>
 
+   
 
 ------
