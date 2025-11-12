@@ -71,10 +71,10 @@ I am also a scientific collaborator to [NASA Juno mission](https://science.nasa.
 <div class="carousel-container">
     <div class="carousel-slides" id="carouselSlides">
         <div class="carousel-slide">
-            <img src="/images/protostar.png" alt="Research at University of Michigan">
+            <img src="../images/protostar.png" alt="Research at University of Michigan">
         </div>
         <div class="carousel-slide">
-            <img src="/images/OccultationGeometry.png" alt="NASA Juno Mission to Jupiter">
+            <img src="../images/OccultationGeometry.png" alt="NASA Juno Mission to Jupiter">
         </div>
         <div class="carousel-slide">
             <img src="/assets/images/great-lakes-weather.jpg" alt="Great Lakes Weather Forecasting">
