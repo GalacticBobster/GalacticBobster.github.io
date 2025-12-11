@@ -13,4 +13,12 @@ main:
     url: /portfolio/
    
   - title: "Media"
-    url: /press/ 
+    url: /press/
+
+  - title: "Leadership and Services"
+    url: /experience/
+
+  - resources: "Resources"
+    url: /resource/
+
+

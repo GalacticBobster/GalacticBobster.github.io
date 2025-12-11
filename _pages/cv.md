@@ -61,6 +61,8 @@ redirect_from:
 }
 </style>
 
+
+
 ## Research Projects
 
 ### 🌦️ Operational Weather Forecasting and Earth System Modeling
@@ -76,20 +78,20 @@ Developing and testing the **NOAA Unified Forecast System (UFS)**, a next-genera
 <span class="tech-stack">Fortran/Python</span>
 <span class="tech-stack">HPC</span>
 
-### 🪐 Planetary Atmospheres & Space Physics
-**Scientific Collaborator** | NASA Juno Mission to Jupiter
-**Steering Committee Member** | NASA Venus Exploration Analysis Group
-**NASA JPL Graduate Fellowship** | NASA Jet Propulsion Laboratory
+### 🪐 PExploring the Outer Solar System
+<div class="impact-metric">
+Scientific collaborator to NASA Juno mission: Microwave Radiometry and Radio Occultation of Jupiter's atmosphere and ionosphere
+</div>
 
 
-**Research Achievements:**
-- First solar system gas giant constaint on alkali metal abundance, depleted relative to other heavy element abundnaces derived from Galileo Probe
-- Sub-millimeter wave remote sensing applications to Martian atmosphere
-- High-energy (MeV) electron precipitation and its time dependence inferred from Juno Microwave Radiometer
+Led multiple research projects analyzing Juno Microwave Radiometer (MWR) observations to study Jupiter’s deep atmospheric structure, alkali metal chemistry, and high-energy electron precipitation in the polar aurora. Integrated microwave radiative transfer, thermochemical equilibrium, and chemical kinetics to constrain processes shaping Jupiter's deep atmosphere and aurora.
 
 **Technical Focus:**
-<span class="tech-stack">Atmospheric Chemistry</span>
+<span class="tech-stack">Atmospheric Chemistry and Clouds</span>
+<span class="tech-stack">Space Physics</span>
 <span class="tech-stack">Microwave Remote Sensing</span>
 <span class="tech-stack">C++/Python</span>
 <span class="tech-stack">Radio Science</span>
+
+
 
