@@ -79,12 +79,8 @@ Developing and testing the **NOAA Unified Forecast System (UFS)**, a next-genera
 <span class="tech-stack">HPC</span>
 
 ### 🪐 PPlanetary Atmospheres & Space Science
-<div class="impact-metric">
-Scientific collaborator to NASA Juno mission: Microwave Radiometry and Radio Occultation of Jupiter's atmosphere and ionosphere
-</div>
 
-
-I lead and contribute to research projects across Jupiter, Venus, and Mars, combining spacecraft observations with numerical modeling of atmospheric chemistry, radiative transfer, and plasma–atmosphere interactions.
+I lead and contribute to research projects across Jupiter, Venus, Mars and Moon, combining spacecraft observations with numerical modeling of atmospheric chemistry, radiative transfer, and plasma–atmosphere interactions. I have been associated with NASA Juno mission as a scientific collaborator
 
 ## Juno Mission — Jupiter's Deep Atmosphere & Polar Aurora
 - Analyzed **Microwave Radiometer (MWR)** observations to constrain deep atmospheric structure, alkali metal chemistry, and cloud formation 

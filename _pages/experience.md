@@ -21,10 +21,10 @@ redirect_from:
 ## Entrepreneurship & Innovation
 - **Entrepreneurs Leadership Program Fellow** — Co-developed a neonatal incubator for low-resource communities; participated in venture grants and competitions across UM College of Engineering and Ross School of Business
 - **AGU Thriving Earth Exchange Fellow** — Led an 18-month community-driven sustainable fisheries data project in Cameron Parish, Louisiana
-- Communications Team and Podcast Host, **Space Generation Advisory Council (SGAC) **, Commercial Space Project Group (CSPG)
+- Communications Team and Podcast Host, **Space Generation Advisory Council (SGAC)**, Commercial Space Project Group (CSPG)
 
 
 ## Training & Mentorship
-- Developed a Professional Development Seminar for the Department of Climate and Space Sciences and Engineering
-- Graduate student mentor for Planetary Mission Design Projects (SPACE 582 and 583); co-developed mission concepts for Mars and Uranian moon exploration
+- Developed a **Professional Development Seminar** for the Department of Climate and Space Sciences and Engineering
+- Graduate student mentor for **Planetary Mission Design Projects** (SPACE 582 and 583); co-developed mission concepts for Mars and Uranian moon exploration
 - Peer mentor for graduate students at University of Michigan
