@@ -88,8 +88,10 @@ I lead and contribute to research projects across Jupiter, Venus, Mars and Moon,
 - Investigated polar auroral regions using Juno's particle data to study high-energy electron precipitation
 
 ## Venus Middle Atmosphere Chemistry
-- Developed a **coupled photochemistry–radiative–convective (RCE)** model to resolve the sulfur cycle and vertical transport of sulfur-bearing species.  
-- Provided predictions relevant to cloud microphysics, radiative balance, and potential future Venus missions.
+- Analysis of Venus Express SPICAV observations to understand thermal structure of upper atmosphere
+- Global Circulation modeling of Venus focused on aerobraking operations
+- Scientific analysis of archival radio science observations
+
 
 ## Mars Submillimeter Occultation Concept Study
 - Led a concept study for **THz/submillimeter  occultation** to retrieve temperature, composition, and density profiles in the Martian atmosphere.
