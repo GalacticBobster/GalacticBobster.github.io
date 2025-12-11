@@ -78,14 +78,27 @@ Developing and testing the **NOAA Unified Forecast System (UFS)**, a next-genera
 <span class="tech-stack">Fortran/Python</span>
 <span class="tech-stack">HPC</span>
 
-### 🪐 PExploring the Outer Solar System
+### 🪐 PPlanetary Atmospheres & Space Science
 <div class="impact-metric">
 Scientific collaborator to NASA Juno mission: Microwave Radiometry and Radio Occultation of Jupiter's atmosphere and ionosphere
 </div>
 
 
-Led multiple research projects analyzing Juno Microwave Radiometer (MWR) observations to study Jupiter’s deep atmospheric structure, alkali metal chemistry, and high-energy electron precipitation in the polar aurora. Integrated microwave radiative transfer, thermochemical equilibrium, and chemical kinetics to constrain processes shaping Jupiter's deep atmosphere and aurora.
+I lead and contribute to research projects across Jupiter, Venus, and Mars, combining spacecraft observations with numerical modeling of atmospheric chemistry, radiative transfer, and plasma–atmosphere interactions.
 
+## Juno Mission — Jupiter's Deep Atmosphere & Polar Aurora
+- Analyzed **Microwave Radiometer (MWR)** observations to constrain deep atmospheric structure, alkali metal chemistry, and cloud formation 
+- Modeled **thermochemical equilibrium, kinetics, and microwave radiative transfer** to interpret Juno data  
+- Investigated polar auroral regions using Juno's particle data to study high-energy electron precipitation
+
+## Venus Middle Atmosphere Chemistry
+- Developed a **coupled photochemistry–radiative–convective (RCE)** model to resolve the sulfur cycle and vertical transport of sulfur-bearing species.  
+- Provided predictions relevant to cloud microphysics, radiative balance, and potential future Venus missions.
+
+## Mars Submillimeter Occultation Concept Study
+- Led a concept study for **THz/submillimeter  occultation** to retrieve temperature, composition, and density profiles in the Martian atmosphere.
+
+---
 **Technical Focus:**
 <span class="tech-stack">Atmospheric Chemistry and Clouds</span>
 <span class="tech-stack">Space Physics</span>
@@ -93,5 +106,22 @@ Led multiple research projects analyzing Juno Microwave Radiometer (MWR) observa
 <span class="tech-stack">C++/Python</span>
 <span class="tech-stack">Radio Science</span>
 
+### 📡 Space Mission Design
+<div class="impact-metric">
+Design and co-development of Space Mission concepts focused on Science Driven Engineering
+</div>
+
+## Mars Small Satellite Constellation Concept
+- Mentored Graduate level engineering students for small satellite based radio occultation constellation network for monitoring Martian atmosphere and ionosphere
+
+## Temporary Captured Object (TCO) Rendezvous Mission Concept
+- Led a mission concept as a Project Scientist and Instrument Lead for TREX mission focused on small TCO around Earth, Cornell SmallSat Mission Design School
+
+**Technical Focus:**
+<span class="tech-stack">Mission Architecture & ConOps</span>
+<span class="tech-stack">Systems Engineering Fundamentals</span>
+<span class="tech-stack">Remote Sensing</span>
+<span class="tech-stack">C++/Python</span>
+<span class="tech-stack">SPICE/Trajectory</span>
 
 
