@@ -18,6 +18,9 @@ main:
   - title: "Leadership and Services"
     url: /experience/
 
+  - title: "News and Updates"
+    url: /updates/
+  
   - resources: "Resources"
     url: /resource/
 
