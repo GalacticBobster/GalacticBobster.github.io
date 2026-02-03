@@ -6,12 +6,17 @@ redirect_from:
   - /about.html
 ---
 
-👋 Welcome! I'm Ananyo Bhattacharya, a space scientist and engineer bridging scientific research with technological innovation. I am a Research Fellow at Department of Climate and Space Sciences and Engineering, University of Michigan.
+Ananyo Bhattacharya is a scientist and engineer working at the intersection of Earth Science, Space Exploration and Technology for positive impact.
 
-I am working on problems at intersection of natural sciences and engineering focused on understanding Earth and outer space. At University of Michigan's [Atmospheric Dynamics Modeling Laboratory](https://admg.engin.umich.edu), I work on technical development of [NOAA Unified Forecast System](https://ufs.epic.noaa.gov) for operational weather forecasting over the Great Lakes region. I am also working with applications of deep learning models for Earth System Modeling. Emerging technologies in machine learning combined with physics based methods help us to take on challenging problems.
+His research examines several themes in Planetary Systems, Earth System Modeling and Sensing Technologies, with particu
+lar focus on how emerging technologies can help better decision making and advance our understanding of Earth and outer
+ space.
 
-As a scientific collaborator with [NASA Juno mission](https://science.nasa.gov/mission/juno/), I have led projects focused on Microwave Radiometry applications to sensing Jupiter's deep clouds and its space environment. 
+He holds a Ph.D. in Climate and Space Sciences and Engineering from University of Michigan, Ann Arbor. He has a Graduate Certificate in Entrepreneurship and Innovation, and a Bachelor of Technology in Mechanical Engineering from Sardar Va
+llabhbhai National Institute of Technology Surat.
 
-I completed my Ph.D. in Climate and Space Sciences and Engineering from University of Michigan with a Graduate Certificate in Entrepreneurship and Innovation, developing solutions for infant mortality in low-resource communities. I have also led and collaborated on a wide scale of collaborative projects from space mission design to community driven environmental monitoring. I have a professional experience of working as a research intern at Los Alamos National Laboratory and NASA Jet Propulsion Laboratory. I have a undergraduate training in Mechnical Engineering from NIT Surat that helps me to connect the paradigms of science and engineering for positive impact.
+He is currently a Research Fellow at University of Michigan's [Atmospheric Dynamics Modeling Laboratory](https://admg.engin.umich.edu), working on technical development of  [NOAA Unified Forecast System](https://ufs.epic.noaa.gov) for operational weather forecasting over the Great Lakes region. As a scientific collaborator to [NASA Juno mission](https://science.nasa.gov/mission/juno/), he led projects to apply microwave radiometry to sense Jupiter's deep clouds and advance understand of the auroral processes at the polar region. He has led and contributed to space mission concepts for sol
+ar system exploration. Previously, he has received research fellowships to work at NASA Jet Propulsion Laboratory and Los Alamos National Laboratory.
+
 
 ------
