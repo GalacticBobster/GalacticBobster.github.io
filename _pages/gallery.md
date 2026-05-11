@@ -15,7 +15,7 @@ redirect_from:
     <!-- ROW 1 -->
     <div class="photo-item tall"
          style="--r:1;--c:1;--rspan:2;--cspan:2"
-         data-img="/images/highlights/cop28.jpeg"
+         data-img="/images/cop28.jpeg"
          data-title="UN Climate Conference COP28"
          data-location="Dubai, UAE"
          data-date="December 2023"
@@ -31,7 +31,7 @@ redirect_from:
  
     <div class="photo-item"
          style="--r:1;--c:3;--rspan:1;--cspan:2"
-         data-img="/images/highlights/jpl.jpeg"
+         data-img="/images/jpl.jpeg"
          data-title="NASA Jet Propulsion Laboratory"
          data-location="Pasadena, California"
          data-date="Summer 2023"
@@ -47,7 +47,7 @@ redirect_from:
  
     <div class="photo-item"
          style="--r:1;--c:5;--rspan:1;--cspan:2"
-         data-img="/images/highlights/juno_award.jpg"
+         data-img="/images/juno_award.jpg"
          data-title="NASA Group Achievement Award"
          data-location="Washington D.C."
          data-date="2026"
@@ -64,7 +64,7 @@ redirect_from:
     <!-- ROW 2 -->
     <div class="photo-item"
          style="--r:2;--c:3;--rspan:1;--cspan:1"
-         data-img="/images/highlights/niser.jpeg"
+         data-img="/images/niser.jpeg"
          data-title="NISER"
          data-location="Bhubaneshwar"
          data-date="2024–2026"
