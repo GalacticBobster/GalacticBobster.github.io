@@ -1,13 +1,7 @@
 # main links links
 main:
   - title: "Research"
-    url: /cv/
-
-#  - title: "Media"
-#    url: /talks/    
-
-#  - title: "Teaching"
-#    url: /teaching/    
+    url: /research/
     
   - title: "Publications"
     url: /portfolio/
@@ -17,11 +11,8 @@ main:
 
   - title: "Leadership and Services"
     url: /experience/
-
-  - title: "News and Updates"
-    url: /updates/
   
-  - resources: "Resources"
-    url: /resource/
+  - resources: "Writing"
+    url: /writing/
 
 
