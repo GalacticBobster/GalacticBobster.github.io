@@ -12,7 +12,10 @@ main:
   - title: "Leadership and Services"
     url: /experience/
   
-  - resources: "Writing"
+  - title: "Writing"
     url: /writing/
+
+  - title: "Gallery"
+    url: /gallery/ 
 
 
