@@ -6,6 +6,7 @@ redirect_from:
   - /about.html
 ---
 
+
 # Hi There
 
 I work at the intersection of Earth Science, Space Exploration and Technology for positive impact. My research examines several themes in Planetary Systems, Earth System Modeling and Sensing Technologies, with particular focus on how emerging technologies can help better decision making and advance our understanding of Earth and outer space.
