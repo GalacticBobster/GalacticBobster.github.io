@@ -21,7 +21,7 @@ redirect_from:
          data-date="December 2023"
          data-desc="At UN Climate Change Conference COP 28, representing University of Michigan">
       <div class="photo-inner">
-        <img src="/images/highlights/cop28.jpg" alt="COP28 Dubai">
+        <img src="/images/cop28.jpeg" alt="COP28 Dubai">
         <div class="photo-hover">
           <span class="hover-title">COP28, Dubai</span>
           <span class="hover-sub">Dec 2023 · UAE</span>
@@ -37,7 +37,7 @@ redirect_from:
          data-date="Summer 2023"
          data-desc="Spent a Summer Working at NASA Jet Propulsion Laboratory">
       <div class="photo-inner">
-        <img src="/images/highlights/jpl.jpg" alt="JPL Fellowship">
+        <img src="/images/jpl.jpeg" alt="JPL Fellowship">
         <div class="photo-hover">
           <span class="hover-title">NASA JPL Fellowship</span>
           <span class="hover-sub">Summer 2023 · Pasadena</span>
@@ -47,16 +47,16 @@ redirect_from:
  
     <div class="photo-item"
          style="--r:1;--c:5;--rspan:1;--cspan:2"
-         data-img="/images/juno_award.jpg"
-         data-title="NASA Group Achievement Award"
+         data-img="/images/agu25.jpeg"
+         data-title="American Geophysical Union Fall Meeting 2025"
          data-location="Washington D.C."
-         data-date="2026"
-         data-desc="Recognized with the NASA Group Achievement Award as part of the Juno Radio Occultation Team for contributions to Jupiter science.">
+         data-date="2025"
+         data-desc="American Geophysical Union Fall Meeting 2025">
       <div class="photo-inner">
-        <img src="/images/highlights/juno_award.jpg" alt="NASA Award">
+        <img src="/images/agu25.jpeg" alt="American Geophysical Union Fall Meeting 2025">
         <div class="photo-hover">
-          <span class="hover-title">NASA Group Award</span>
-          <span class="hover-sub">2026 · Juno Team</span>
+          <span class="hover-title">American Geophysical Union Fall Meeting 2025</span>
+          <span class="hover-sub">2025 . San Francisco</span>
         </div>
       </div>
     </div>
@@ -70,7 +70,7 @@ redirect_from:
          data-date="2024–2026"
          data-desc="Invited Seminar at School of Earth and Planetary Sciences, NISER Bhubaneshwar.">
       <div class="photo-inner">
-        <img src="/images/highlights/fishermen.jpg" alt="Fisheries project">
+        <img src="/images/niser.jpeg" alt-"Invited Seminar at School of Earth and Planetary Sciences, NISER Bhubaneshwar.">
         <div class="photo-hover">
           <span class="hover-title">NISER Bhubaneshwar</span>
           <span class="hover-sub">Jatni, India</span>
