@@ -20,5 +20,5 @@ I maintain a medium page for blogging activity. I write about life, science and 
 Since my school days, I have been writing poems. In 2026, I published my first collection of English short poems titled 'Mausam' (translates to 'Seasons' in Hindi). It is publicly available on the [Internet Archive](https://archive.org/details/mausam_202604/)
 
 
-![Alt text](/images/Mausam.png){: .align-center}
+![Alt text](/images/Mausam.png){: .align-center style="width:50%;"}
 *Mausam, a collection of short poems*
