@@ -70,7 +70,7 @@ redirect_from:
          data-date="2024–2026"
          data-desc="Invited Seminar at School of Earth and Planetary Sciences, NISER Bhubaneshwar.">
       <div class="photo-inner">
-        <img src="/images/niser.jpeg" alt-"Invited Seminar at School of Earth and Planetary Sciences, NISER Bhubaneshwar.">
+        <img src="/images/niser.jpeg" alt="Invited Seminar at School of Earth and Planetary Sciences, NISER Bhubaneshwar.">
         <div class="photo-hover">
           <span class="hover-title">NISER Bhubaneshwar</span>
           <span class="hover-sub">Jatni, India</span>
@@ -78,7 +78,23 @@ redirect_from:
       </div>
     </div>
  
-   
+
+    <div class="photo-item"
+         style="--r:1;--c:5;--rspan:1;--cspan:2"
+         data-img="/images/Junoaward.jpg"
+         data-title="NASA Group Achievement Award"
+         data-location="Washington D.C."
+         data-date="2026"
+         data-desc="NASA Group Achievement Award">
+      <div class="photo-inner">
+        <img src="/images/Junoaward.jpg" alt="NASA Group Achievement Award">
+        <div class="photo-hover">
+          <span class="hover-title">NASA Group Achievement Award</span>
+          <span class="hover-sub">2026 . Ann Arbor</span>
+        </div>
+      </div>
+    </div>
+ 
     
 
  
