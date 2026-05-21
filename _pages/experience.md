@@ -10,11 +10,14 @@ redirect_from:
 {% include base_path %}
 
 ## Professional Socities & Leadership
-- Steering Committee Member, **NASA Venus Exploration Analysis Group**
-- Former Student Representative, **Space Physics and Aeronomy Section**, American Geophysical Union (AGU)
-- Referee for **NASA** and **NOAA** 
+- Steering Committee Member, **Venus Exploration Analysis Group**
+- **American Geophysical Union (AGU)** Voices for Science Fellow 2026
+- Early Career Reviewer for **Intergovernmental Panel on Climate Change (IPCC)** Seventh Assessment (AR7) Report
+- Former Student Representative, **AGU Space Physics and Aeronomy Section**
+- Referee for **NASA** and **NOAA** Funding Proposal Panels
 - Science Organizing Committee, **AAS Division for Planetary Sciences (DPS)** 2024
 - Session Chair & Convener, **AGU** and **AAS-DPS** conferences
+- Local Orgnanizing Committee, Gas Giant Planet Formation:  Clues from Composition 2026
 - Conference scribe and documentation support for International Planetary Exploration Conferences hosted by **NASA**, **ESA** and **DLR**
 - University of Michigan Delegate to **UN Climate Change Conference COP 28**
 
