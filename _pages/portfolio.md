@@ -20,6 +20,8 @@ Doctoral Thesis
 Peer-Reviewed Publications/Pre-Prints
 ======
 
+Coffin et al., "The role of magnetic coupling in shaping ionospheric electron density profiles at Jupiter" (Submitted)
+
 Tripathi et al., "Baseline correction uncertainties in Venus radio occultation: Implications for temperature retrieval and the V0 layer" (Submitted)
 
 **Bhattacharya, Ananyo** "ARCO-Mars: A Unified Cloud-Optimized Archive of Mars Atmosphere Reanalysis", [eprint arXiv:2606.21701](https://arxiv.org/abs/2606.21701)
